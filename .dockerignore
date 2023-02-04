@@ -1,0 +1,9 @@
+.git
+.gitignore
+*.ipynb
+**/*.pyc
+__pycache__/
+.vscode/
+kubernetes/
+helm/
+.examples/
